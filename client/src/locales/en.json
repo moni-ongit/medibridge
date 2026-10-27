@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "howItWorks": "How It Works",
+    "findDoctors": "Find Doctors",
+    "contact": "Contact",
+    "login": "Log In",
+    "register": "Register",
+    "logout": "Log Out",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "headline": "Healthcare Without Language Barriers",
+    "subheading": "Connect with healthcare professionals in your preferred language through multilingual telemedicine and real-time translation.",
+    "getStarted": "Get Started",
+    "findDoctor": "Find a Doctor"
+  },
+  "features": {
+    "title": "Built for equitable, accessible care",
+    "multilingual": {
+      "title": "Multilingual Healthcare",
+      "desc": "Navigate the platform in your preferred language."
+    },
+    "translation": {
+      "title": "Real-Time Translation",
+      "desc": "Understand and communicate during consultations."
+    },
+    "video": {
+      "title": "Secure Video Consultations",
+      "desc": "Connect with healthcare professionals from anywhere."
+    },
+    "interpreter": {
+      "title": "Professional Interpreters",
+      "desc": "Request a human interpreter when additional support is needed."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Choose Your Language",
+      "desc": "Pick English, Tamil, or Hindi — the whole platform adapts instantly."
+    },
+    "step2": {
+      "title": "Find a Doctor",
+      "desc": "Browse specialists who speak your language or work with an interpreter."
+    },
+    "step3": {
+      "title": "Book an Appointment",
+      "desc": "Select a convenient date and time in a few clicks."
+    },
+    "step4": {
+      "title": "Join the Consultation",
+      "desc": "Meet your doctor face-to-face over secure video."
+    },
+    "step5": {
+      "title": "Communicate Without Barriers",
+      "desc": "Follow live translated subtitles or bring in a human interpreter."
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "saved": "Saved",
+    "back": "Back",
+    "viewAll": "View All",
+    "search": "Search",
+    "language": "Language",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "required": "This field is required",
+    "somethingWrong": "Something went wrong. Please try again.",
+    "confirm": "Confirm",
+    "close": "Close",
+    "seeMore": "See more",
+    "book": "Book",
+    "bookAppointment": "Book Appointment",
+    "welcomeBack": "Welcome back"
+  },
+  "auth": {
+    "loginTitle": "Log in to MediBridge",
+    "registerTitle": "Create your MediBridge account",
+    "iAm": "I am a",
+    "patient": "Patient",
+    "doctor": "Doctor",
+    "interpreter": "Interpreter",
+    "preferredLanguage": "Preferred Language",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "signIn": "Sign In",
+    "invalidCredentials": "Invalid email or password"
+  },
+  "doctors": {
+    "title": "Find Doctors",
+    "searchPlaceholder": "Search by name or specialization",
+    "allSpecializations": "All Specializations",
+    "yearsExperience": "years experience",
+    "speaks": "Speaks",
+    "consultationFee": "Consultation Fee",
+    "viewProfile": "View Profile",
+    "noResults": "No doctors match your search."
+  },
+  "appointments": {
+    "myAppointments": "My Appointments",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "reason": "Reason for Visit (optional)",
+    "confirmBooking": "Confirm Booking",
+    "bookingSuccess": "Appointment booked successfully!",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "joinCall": "Join Video Consultation",
+    "noAppointments": "No appointments yet.",
+    "cancelAppointment": "Cancel Appointment"
+  },
+  "consultation": {
+    "waitingRoom": "Waiting for the other participant to join...",
+    "mic": "Microphone",
+    "camera": "Camera",
+    "chat": "Chat",
+    "translation": "Translation",
+    "requestInterpreter": "Request Interpreter",
+    "endCall": "End Consultation",
+    "subtitlesTitle": "Live Translated Subtitles",
+    "original": "Original",
+    "translated": "Translated",
+    "interpreterRequested": "Interpreter requested — waiting for someone to accept",
+    "interpreterJoined": "An interpreter has joined the call",
+    "typeMessage": "Type a message...",
+    "send": "Send",
+    "schedule": {
+      "joinOpensAt": "Opens at {{time}}",
+      "joinFromNote": "You can join {{minutes}} minutes before the scheduled time.",
+      "notOpenYet": "Your consultation has not opened yet",
+      "scheduledFor": "Scheduled for {{date}} at {{time}}",
+      "opensIn": "Opens in",
+      "opensAtNote": "The room opens at {{time}}. This page will let you in automatically.",
+      "windowClosed": "Consultation time has passed",
+      "windowClosedTitle": "This consultation window has closed",
+      "windowClosedNote": "Consultations can only be joined around the scheduled time. Please book a new appointment if you still need to see the doctor.",
+      "cancelledTitle": "This appointment was cancelled",
+      "notParticipant": "You are not a participant of this consultation",
+      "notFound": "This consultation could not be found",
+      "genericDenied": "Could not join this consultation. Please try again.",
+      "checkAgain": "Check again",
+      "backToDashboard": "Back to dashboard"
+    }
+  },
+  "dashboard": {
+    "patient": {
+      "welcome": "Welcome",
+      "upcomingAppointments": "Upcoming Appointments",
+      "recentConsultations": "Recent Consultations",
+      "findDoctors": "Find Doctors",
+      "preferredLanguage": "Preferred Language"
+    },
+    "doctor": {
+      "todayAppointments": "Today's Appointments",
+      "upcomingConsultations": "Upcoming Consultations",
+      "patientList": "Patient List",
+      "availability": "Availability Status",
+      "history": "Consultation History"
+    },
+    "interpreter": {
+      "availability": "Availability",
+      "pendingRequests": "Pending Requests",
+      "activeConsultation": "Active Consultation",
+      "languagesSupported": "Languages Supported",
+      "completed": "Completed Consultations",
+      "available": "Available",
+      "unavailable": "Unavailable",
+      "accept": "Accept",
+      "decline": "Decline"
+    }
+  },
+  "footer": {
+    "tagline": "Equitable telemedicine, in every language.",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us"
+  }
+}
